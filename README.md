@@ -42,7 +42,7 @@
 
 
 
-- 🔭 I’m currently working on [Cyber LK BOT Project](https://github.com/SLTechnicalTips/CyberLK)
+- 🔭 I’m currently working on [Cyber LK BOT Project](https://github.com/SLTechnicalTips/CyberLK-BOT)
 
 - 🌱 I’m currently learning **Java, Node.js, HTML, Python**
 
