@@ -46,7 +46,7 @@
 
 - 🌱 I’m currently learning **Java, Node.js, HTML, Python**
 
-- 👨‍💻 All of my projects are available at > [My Git](https://github.com/SLTechnicalTips/) <
+- 👨‍💻 All of our projects are available at > [Our Git](https://github.com/CyberLKTeam/) <
 
 - 📫 How to reach me > [Telegram](https://t.me/sltechnicaltipsadmincontactbot) <
 
@@ -57,7 +57,7 @@
 - 💫 **I am only a beginner developer.. 🌆**
 
 <div align="center"><img src="https://profile-counter.glitch.me/SLTechnicalTips/count.svg" /><br>Profile Viewers</div>
-
+<br>
 <h1 align="center">
                                  🔥 Heys I'm  NEON 🔥 
 
