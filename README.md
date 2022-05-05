@@ -2,7 +2,7 @@
 <p align="center">
     <a href="https://git.io/J0hKr">
         <img
-        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Welcome+To+SL+Technical+Tips+Profile..."
+        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Welcome+To+SL+Technical+Tips..."
             alt="Typing SVG"
         />
     </a>
@@ -12,14 +12,14 @@
   <img src="https://i.ibb.co/Q8pp367/pp.jpg" width="300" height="300">
 </div>
 
-<h2 align="center">Hello👁<br>I'm Nico🎩🔨👮🏻‍♂️</h1>
+<h2 align="center">Hello👁<br>I'm NEON🎩🔨👮🏻‍♂️</h1>
 
 <p align="center">
   <a href="https://youtube.com/SLTechnicalTips?sub_confirmation=1">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.herokuapp.com/youtube/channel/subscribers/UCYpzhRBGT4x3avaE3DR5_jA?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
 
 <h4 align="center">I am a simple developer. Not like Dennis Ritchie..</h3>
-<h4 align="center">Moreover, I am the founder of the Cyber Queen whatsapp user bot project.</h7>
+<h4 align="center">Moreover, I am the founder of the Cyber LK whatsapp user bot project.</h7>
 
 
 
@@ -42,7 +42,7 @@
 
 
 
-- 🔭 I’m currently working on [Cyber Queen BOT Project](https://github.com/SLTechnicalTips/CyberQueen) and [Ultroid BOT Project](https://github.com/UltroidWA/Ultroid)
+- 🔭 I’m currently working on [Cyber LK BOT Project](https://github.com/SLTechnicalTips/CyberLK)
 
 - 🌱 I’m currently learning **Java, Node.js, HTML, Python**
 
@@ -59,7 +59,7 @@
 <div align="center"><img src="https://profile-counter.glitch.me/SLTechnicalTips/count.svg" /><br>Profile Viewers</div>
 
 <h1 align="center">
-                                 🔥 Heys I'm  Nico 🔥 
+                                 🔥 Heys I'm  NEON 🔥 
 
 <p align="center">
   <a href="" target="white"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="" height="30" width="40" /></a>
