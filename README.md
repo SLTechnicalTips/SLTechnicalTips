@@ -12,10 +12,10 @@
   <img src="https://i.ibb.co/Q8pp367/pp.jpg" width="300" height="300">
 </div>
 
-<h2 align="center">Hello👁<br>I'm NEON🎩🔨👮🏻‍♂️</h1>
+<h2 align="center">Hello👁<br>I'm Imesh S Abeysinghe 🎩🔨👮🏻‍♂️</h1>
 
 <p align="center">
-  <a href="https://youtube.com/SLTechnicalTips?sub_confirmation=1">
+  <a href="https://youtube.com/@Imesh.S.Abeysinghe?sub_confirmation=1">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.herokuapp.com/youtube/channel/subscribers/UCYpzhRBGT4x3avaE3DR5_jA?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
 
 <h4 align="center">I am a simple developer. Not like Dennis Ritchie..</h3>
