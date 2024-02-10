@@ -48,9 +48,9 @@
 
 - 👨‍💻 All of our projects are available at > [Our Git](https://github.com/CyberLKTeam/) <
 
-- 📫 How to reach me > [Telegram](https://t.me/sltechnicaltipsadmincontactbot) <
+- 📫 How to reach me > [Telegram](https://t.me/@Imesh_S_Abeysinghe) <
 
-- 👨‍ SL Technical Tips YouTube Channel... > [YouTube](https://YouTube.com/SLTechnicalTips/) <
+- 👨‍ SL Technical Tips YouTube Channel... > [YouTube](https://YouTube.com/@Imesh.S.Abeysinghe/) <
 
 - 📫 There is My simple Website > [Website](http://sltechnicaltips.github.io/) <
 
@@ -59,7 +59,7 @@
 <div align="center"><img src="https://profile-counter.glitch.me/SLTechnicalTips/count.svg" /><br>Profile Viewers</div>
 <br>
 <h1 align="center">
-                                 🔥 Heys I'm  NEON 🔥 
+                                 🔥 Heys I'm Imesh S Abeysinghe 🔥 
 
 <p align="center">
   <a href="" target="white"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="" height="30" width="40" /></a>
@@ -67,7 +67,7 @@
   <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="" height="30" width="40" /></a>
 </p>
    <p align='center'>
-   <a href="https://YouTube.com/SLTechnicalTips/" alt="made-with-python"> <img src="https://github.com/devSouvik/devSouvik/blob/master/gif2.gif.gif"width="500" /> </a>
+   <a href="https://YouTube.com/@Imesh.S.Abeysinghe/" alt="made-with-python"> <img src="https://github.com/devSouvik/devSouvik/blob/master/gif2.gif.gif"width="500" /> </a>
 </p>
 
     
